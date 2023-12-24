@@ -1,0 +1,7 @@
+Welcome to our hands-on coding extracurricular tutorial! Designed for high school students in Bogor, Indonesia, this responsive website project is a fantastic starting point for aspiring web developers. Crafted using HTML and CSS, and incorporating display grid and media queries, this tutorial guides students through the creation of a simple yet dynamic website focused on automotive services.
+
+The website's thematic core revolves around car maintenance services. Its structure comprises a sleek header, captivating hero section, an informative 'About Us' segment, a dedicated 'Services' section detailing the automotive offerings, and a polished footer. Each section serves as a valuable learning opportunity, emphasizing the use of HTML and CSS for both structure and styling, with a keen focus on responsiveness.
+
+This project is tailored to nurture the skills of students eager to explore the world of web development. The automotive services theme not only adds a practical context to the coding exercise but also makes the learning experience engaging and applicable to real-world scenarios. Students will gain hands-on experience in building a responsive website, honing their skills in the process.
+
+Whether you're a novice or looking to refine your coding abilities, this tutorial provides a guided pathway to creating a visually appealing and functional website. Join us in this coding journey, where creativity meets practicality, and turn your interest in web development into a tangible skill set. Happy coding! 🚗🔧💻
